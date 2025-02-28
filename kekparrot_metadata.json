@@ -1,0 +1,14 @@
+{
+  "name": "KekParrot",
+  "symbol": "KEK",
+  "description": "KekParrot (KEK) is a fun and meme-driven token inspired by the iconic parrot. It represents the joy and humor of the crypto community.",
+  "image": "https://github.com/Pimomo-Website/KEK/blob/main/KEK.png?raw=true",
+  "attributes": {
+    "category": "Meme Coin",
+    "network": "Solana",
+    "creator": "LKA Team",
+    "website": "https://Kekparrot.io",
+    "supply": "1,000,000,000 KEK",
+    "decimals": 9
+  }
+}
